@@ -1,0 +1,4 @@
+2024-08-14 17:41:22,566:__main__:INFO:Element found at index 3
+2024-08-14 17:41:55,011:__main__:INFO:Element found at index 3 using Binary Search
+2024-08-14 18:15:57,601:__main__:INFO:BFS traversal starting from vertex A:['A', 'B', 'C', 'D', 'E', 'F']
+2024-08-14 18:16:20,279:__main__:INFO:DFS traversal starting from vertex A:['A', 'B', 'D', 'E', 'F', 'C']
